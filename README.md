@@ -64,9 +64,9 @@ solutions. With a background in Applied Computer Science, I possess strong skill
   <img src="https://github-readme-stats.vercel.app/api?username=zzCOMzz&show_icons=true" />
 </picture>
   
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzCOMzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzCOMzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ### 🌱 What I'm Learning
 
