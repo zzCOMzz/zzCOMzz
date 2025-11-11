@@ -18,6 +18,7 @@ solutions. With a background in Applied Computer Science, I possess strong skill
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Frontend:**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -51,13 +52,21 @@ solutions. With a background in Applied Computer Science, I possess strong skill
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzCOMzz&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzCOMzz&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zzCOMzz&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zzCOMzz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzCOMzz&show_icons=true" />
+</picture>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzCOMzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </div>
 
 ### 🌱 What I'm Learning
 
@@ -93,10 +102,11 @@ solutions. With a background in Applied Computer Science, I possess strong skill
 
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) https://ko-fi.com/refnaldyme
 
---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zzCOMzz&color=blue&style=flat-square" alt="Profile Views" />
 </div>
+
+---
 
 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
